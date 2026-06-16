@@ -27,10 +27,10 @@ Domain: Retail Sales
 . Customer Spending Analysis
 
 ### Key Insights
-.Total revenue generated was ₹322,966.75.
-.Branch C generated the highest revenue (₹110,568.71).
-.Food & Beverages was the top revenue-generating product category.
-.Members contributed more revenue than normal customers.
-.E-wallet and Cash were the most preferred payment methods.
-.Weekday sales accounted for nearly 69% of total revenue.
+Total revenue generated was ₹322,966.75.
+Branch C generated the highest revenue (₹110,568.71).
+Food & Beverages was the top revenue-generating product category.
+Members contributed more revenue than normal customers.
+E-wallet and Cash were the most preferred payment methods.
+Weekday sales accounted for nearly 69% of total revenue.
 
